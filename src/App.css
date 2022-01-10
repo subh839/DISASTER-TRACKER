@@ -1,0 +1,32 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+.icon{
+  color: black;
+  background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%);
+  border-radius: 50%;
+}
+.icon2{
+  color: brown;
+  background-image: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);
+  border-radius: 50%;
+
+}
+
+.description{
+  height: auto;
+  width:300px;
+  padding: 10px;
+  color:black;
+  font-family: 'Kaushan Script', cursive;
+  border-radius: 7px;
+  /* background-image: linear-gradient(to right, #eea2a2 0%, #bbc1bf 19%, #57c6e1 42%, #b49fda 79%, #7ac5d8 100%); */
+  background-image: linear-gradient(45deg, #8baaaa 0%, #ae8b9c 100%);
+  cursor: pointer;
+}
+.close{
+  padding-left: 95%;
+  height: 30px;
+}
